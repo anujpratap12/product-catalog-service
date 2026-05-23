@@ -1,8 +1,8 @@
 # Product Catalog Service
 
-This project is a backend HTTP service built in Go for the Source Asia backend assignment.
+This project is a backend HTTP service built in Go.
 
-The project contains two required parts:
+The project includes two main components:
 
 1. Rate-limited API
 2. Product catalog with media support
