@@ -4,9 +4,9 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"sourceasia-backend-assignment/internal/limiter"
-	"sourceasia-backend-assignment/internal/models"
-	"sourceasia-backend-assignment/internal/utils"
+	"product-catalog-service/internal/limiter"
+	"product-catalog-service/internal/models"
+	"product-catalog-service/internal/utils"
 )
 
 func RequestHandler(w http.ResponseWriter, r *http.Request) {

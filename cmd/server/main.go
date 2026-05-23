@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"strings"
 
-	"sourceasia-backend-assignment/internal/handlers"
+	"product-catalog-service/internal/handlers"
 )
 
 func healthHandler(w http.ResponseWriter, r *http.Request) {

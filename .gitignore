@@ -1,0 +1,16 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go
+bin/
+vendor/
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store

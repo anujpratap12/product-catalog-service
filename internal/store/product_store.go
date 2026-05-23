@@ -3,7 +3,7 @@ package store
 import (
 	"sync"
 
-	"sourceasia-backend-assignment/internal/models"
+	"product-catalog-service/internal/models"
 )
 
 var (

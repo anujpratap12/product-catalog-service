@@ -4,7 +4,7 @@ import (
 	"sync"
 	"time"
 
-	"sourceasia-backend-assignment/internal/models"
+	"product-catalog-service/internal/models"
 )
 
 var (

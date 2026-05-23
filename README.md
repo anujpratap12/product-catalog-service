@@ -1,4 +1,4 @@
-# Source Asia Backend Assignment
+# Product Catalog Service
 
 This project is a backend HTTP service built in Go for the Source Asia backend assignment.
 
@@ -49,7 +49,7 @@ git clone <your-repo-link>
 ## 2. Move into project
 
 ```bash
-cd sourceasia-backend-assignment
+cd product-catalog-service
 ```
 
 ## 3. Run server

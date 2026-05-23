@@ -7,9 +7,9 @@ import (
 	"strings"
 	"time"
 
-	"sourceasia-backend-assignment/internal/models"
-	"sourceasia-backend-assignment/internal/store"
-	"sourceasia-backend-assignment/internal/utils"
+	"product-catalog-service/internal/models"
+	"product-catalog-service/internal/store"
+	"product-catalog-service/internal/utils"
 )
 
 func CreateProductHandler(w http.ResponseWriter, r *http.Request) {

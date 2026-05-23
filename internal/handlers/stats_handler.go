@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	"sourceasia-backend-assignment/internal/limiter"
+	"product-catalog-service/internal/limiter"
 )
 
 func StatsHandler(w http.ResponseWriter, r *http.Request) {
